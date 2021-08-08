@@ -5,6 +5,8 @@
 Esse projeto foi realizado durante o bootcamp de data science aplicado da Alura, utilizando como base um desafio proposto pelo Hospital Sírio Libanês
 no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19).
 
+Acesse o notebook principal [aqui](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Machine_learning_na_avaliacao_pacientes_com_COVID_19.ipynb).
+
 ## 1. Objetivo
 
 <p> Implementar um modelo de Machine Learning que consiga prever quais pacientes que se apresentarem no Hospital Sírio Libânes com COVID-19 precisarão de UTI
