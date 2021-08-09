@@ -77,7 +77,7 @@ no [notebook](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Model
 Para validar o modelo de machine learning proposto, será feita uma cross-validation (validação cruzada).
 
 Para saber mais sobre a construção e validação do modelo, bem como os resultados obtidos e conclusões, 
-acesse o [notebook](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Machine_learning_na_avaliacao_pacientes_com_COVID_19.ipynb) principal.
+acesse o [notebook principal](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Machine_learning_na_avaliacao_pacientes_com_COVID_19.ipynb).
 
 ## 6. Referências
 
