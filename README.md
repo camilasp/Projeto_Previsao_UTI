@@ -5,7 +5,20 @@
 Esse projeto foi realizado durante o bootcamp de data science aplicado da Alura, utilizando como base um desafio proposto pelo Hospital Sírio Libanês
 no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19).
 
-Acesse o notebook principal [aqui](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Machine_learning_na_avaliacao_pacientes_com_COVID_19.ipynb).
+Os seguintes notebooks fazem parte desse Projeto:
+
+1. [Notebook Principal](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Machine_learning_na_avaliacao_pacientes_com_COVID_19.ipynb)
+2. [Preparação dos dados](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/preparacao_dados.ipynb)
+3. [Modelos de Machine Learning](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Modelos.ipynb)
+4. [Gráficos dados SEADE](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/dados_seade.ipynb)
+
+Além de um arquivo auxiliar com funções:
+
+[Funções](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/funcoes.py)
+
+
+
+Comece pelo [notebook principal](https://github.com/camilasp/Projeto_Previsao_UTI/blob/master/Machine_learning_na_avaliacao_pacientes_com_COVID_19.ipynb).
 
 ## 1. Objetivo
 
